@@ -1,6 +1,4 @@
-# Module 12 Report Template
-
-## Overview of the Analysis
+# Credit Risk Analysis
 
 This Project builds a model that can identify the creditworthiness of borrowers.
 * Financial information/Resources:
